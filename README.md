@@ -36,5 +36,6 @@ Desarrollo y mantenimiento de plataformas digitales para instituciones culturale
 
 ## Contacto
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:axelcerecedo117@gmail.com)
+- axelcerecedo117@gmail.com
+  
 ---
