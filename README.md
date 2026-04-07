@@ -36,6 +36,6 @@ Desarrollo y mantenimiento de plataformas digitales para instituciones culturale
 
 ## Contacto
 
-- axelcerecedo117@gmail.com
+- 📩 axelcerecedo117@gmail.com
   
 ---
