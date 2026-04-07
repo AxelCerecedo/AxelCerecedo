@@ -37,5 +37,6 @@ Desarrollo y mantenimiento de plataformas digitales para instituciones culturale
 ## Contacto
 
 - 📩 axelcerecedo117@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-axel-cerecedo-gonzalez-a33984354/)
   
 ---
